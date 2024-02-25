@@ -1,0 +1,33 @@
+Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.
+
+
+What are 4 types of AI?
+4 main types of artificial intelligence
+Reactive machines. Reactive machines are AI systems that have no memory and are task specific, meaning that an input always delivers the same output. ...
+Limited memory machines. The next type of AI in its evolution is limited memory. ...
+Theory of mind. ...
+Self-awareness.
+
+
+
+Who created AI?
+Alan Turing
+Birth of AI: 1950-1956
+
+Alan Turing published his work “Computer Machinery and Intelligence” which eventually became The Turing Test, which experts used to measure computer intelligence. The term “artificial intelligence” was coined and came into popular use.
+
+
+
+How can I use AI?
+How AI is used in daily life?
+AI is playing a crucial role in cybersecurity, detecting and preventing cyberattacks in real-time. Machine learning algorithms can analyze network traffic, identify anomalies, and block threats. This technology can also monitor social media, identify fake news, and prevent phishing attacks.
+
+
+
+What is the future of AI?
+AI is predicted to grow increasingly pervasive as technology develops, revolutionising sectors including healthcare, banking, and transportation. The work market will change as a result of AI-driven automation, necessitating new positions and skills.
+
+
+
+Is AI a future job?
+How Will AI Affect Jobs - How many jobs will AI replace by 2030. Artificial intelligence (AI) could replace the equivalent of 300 million full-time jobs, a report by investment bank Goldman Sachs says. It could replace a quarter of work tasks in the US and Europe but may also mean new jobs and a productivity boom.
